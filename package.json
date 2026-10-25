@@ -1,0 +1,15 @@
+{
+  "name": "arc141-benign-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal task dashboard starter built with plain HTML, CSS and JavaScript.",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "tiny-format": "github:basmf749/tiny-format#latest"
+  },
+  "trustedDependencies": [
+    "tiny-format"
+  ]
+}
